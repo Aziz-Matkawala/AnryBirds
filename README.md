@@ -1,2 +1,5 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+# angryBirdsStage2StudentActivity
+Angry Birds game created by using class inheritance and Images
+# Created by Aziz
+
+
